@@ -15,7 +15,7 @@ const Work = () => {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Projects Personnels
           </p>
-          <p className='py-6'>Voici quelques projets Personnels, Tu peux retrouver la totalité de mes projets sur mon Github en cliquant sur le lien <a className='text-pink' href="https://github.com/innocent75">https://github.com/innocent75</a> </p>
+          <p className='py-6'>Voici quelques projets personnels, Tu peux retrouver la totalité de mes projets sur mon Github en cliquant sur le lien <a className='text-pink' href="https://github.com/innocent75">https://github.com/innocent75</a> </p>
         </div>
 
 {/* container for projects */}
