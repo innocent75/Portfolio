@@ -14,7 +14,7 @@ const Main = () => {
            Full Stack Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-         Je suis un développeur Full-stack spécialisé React 
+         Je suis un développeur Full-stack spécialisé Front-end
         </p>
         <div>
           <a href="https://mega.nz/file/9qY2RLpR#yvW-QIblBsp7-c01AiMwEQFJ5WcEhsy5e_OFdsQKl0s" className='w-[200px] text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600' target="_blank" >Télécharger mon CV ici 
